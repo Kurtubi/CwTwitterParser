@@ -1,0 +1,9 @@
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\bin\Debug\TwitterParser.exe
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\bin\Debug\TwitterParser.pdb
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.csprojResolveAssemblyReference.cache
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.frmTwitterParserPanel.resources
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.Properties.Resources.resources
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.csproj.GenerateResource.Cache
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.exe
+c:\users\hüseyin\documents\visual studio 2010\Projects\CwTwitterParser\TwitterParser\obj\x86\Debug\TwitterParser.pdb
